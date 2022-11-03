@@ -16,9 +16,11 @@
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
+      "bundleIdentifier": "com.zhirzh.cancall",
       "supportsTablet": true
     },
     "android": {
+      "package": "com.zhirzh.cancall",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
@@ -26,6 +28,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "54c115b2-4582-4e11-a750-ce8b0f46cc04"
+      }
     }
   }
 }
