@@ -12,7 +12,8 @@
   "dependencies": {
     "@react-native-firebase/app": "^16.4.3",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "react-native-immediate-phone-call": "^2.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
