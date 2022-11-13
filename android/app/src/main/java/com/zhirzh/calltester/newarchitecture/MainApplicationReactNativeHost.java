@@ -1,4 +1,4 @@
-package com.calltester.newarchitecture;
+package com.zhirzh.calltester.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.calltester.BuildConfig;
-import com.calltester.newarchitecture.components.MainComponentsRegistry;
-import com.calltester.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.zhirzh.calltester.BuildConfig;
+import com.zhirzh.calltester.newarchitecture.components.MainComponentsRegistry;
+import com.zhirzh.calltester.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

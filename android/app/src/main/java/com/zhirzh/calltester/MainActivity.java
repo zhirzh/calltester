@@ -1,4 +1,4 @@
-package com.calltester;
+package com.zhirzh.calltester;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
