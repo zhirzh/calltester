@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765902049602",
+    "project_id": "calltester-1f770",
+    "storage_bucket": "calltester-1f770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765902049602:android:0bc34d2f1db602617e78db",
+        "android_client_info": {
+          "package_name": "com.zhirzh.calltester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765902049602-etjhurt05qi23pilfu5d2hh68fg4moen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Rq7c2B_iMN3a_njva5ut0albBzCEhAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765902049602-etjhurt05qi23pilfu5d2hh68fg4moen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
